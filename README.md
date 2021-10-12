@@ -1,2 +1,4 @@
 # Hierarchical-Design-for-DLRI-of-Navy-Ships-in-the-Optical-Satellite-Image
 This study focuses on all stages of ship classification in the optical satellite images. The proposed “Hierarchical Design (HieD)” approach, which is based on deep learning techniques, performs Detection, Localization, Recognition and Identification (DLRI) of the ships in the optical satellite images. HieD is an end-to-end approach which allows the optimization of each stage of the DLRI independently. A unique and rich ship dataset (High Resolution Ships, HRShips), which is formed by the Google Earth Pro software, is used in this study. While Xception network is used in detection, recognition and identification stages; YOLOv4 is preferred for the localization of the ships. 
+The Step to be Followed to Run the Code
+1. Download all the matlab and 
