@@ -13,17 +13,18 @@ load ('...\testList');
 gTruthLabels = testList;
 % >>> LOAD > pretrained networks
 % Detection
-load('C:\Users\PROCOM-13\Dropbox\01_TEZ\00_code\end2end\trainedNets\det_set_1_e50_20210515.mat');
-netDetect = GEP_UHU_detXception_e50;
+% >>> FILL > your local folder address
+load('C:\...\HieD_detection.mat');
+netDetect = HieD_detection;
 % Localization
 cfgfile = 'yolov4-obj_C2.cfg';
-weightfile = 'yolov4-obj_11000_final_C2.weights';
+weightfile = 'yolov4_HieD_Localization.weights.weights';
 % Recognition
-load('C:\Users\PROCOM-13\Dropbox\01_TEZ\00_code\end2end\trainedNets\rec_set_1_C16_e50_20210531.mat');
-netRecog = GEP_UHU_recXception_16_e50;
+load('C:\...\HieD_recognition.mat');
+netRecog = HieD_recognition;
 % Identification
-load('C:\Users\PROCOM-13\Dropbox\01_TEZ\00_code\end2end\trainedNets\ide_set_1_C8_e50_20210603.mat');
-netId = GEP_UHU_ideXception_C8_e50_2;
+load('C:\...\HieD_identification.mat');
+netId = HieD_identification;
 
 %% SECTION -2- Set-up
 
