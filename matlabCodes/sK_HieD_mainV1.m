@@ -37,7 +37,7 @@ subImageNum = 4;
 detectThres = 0.2;
 % Localization
 names =   [{'navy_16'};{'nonNavy'}];
-classesNames = categorical(names{1});
+classesNames = categorical(names);
 scale_2 = [704, 704];
 locThres = 0.4;
 NMS = 0.75; % non-maximum-suppresion threshold for overlapping of two boundingBox, if it is bigger than this FAlSE
