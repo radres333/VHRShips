@@ -9,7 +9,6 @@
 %% SECTION -1- Input
 
 % >>> LOAD > test images 
-load ('...\testList');
 gTruthLabels = testList;
 % >>> LOAD > pretrained networks
 % Detection
