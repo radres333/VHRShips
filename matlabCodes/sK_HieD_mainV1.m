@@ -18,7 +18,7 @@ netDetect = HieD_detection;
 % Localization
 % >>> ADD > the path of the cfg and weights folder to the current folder of the MATLAB
 cfgfile = 'yolov4-obj_C2.cfg';
-weightfile = 'yolov4_HieD_Localization.weights.weights';
+weightfile = 'yolov4_HieD_Localization.weights';
 % Recognition
 % >>> FILL > your local folder address
 load('C:\...\HieD_recognition.mat');
