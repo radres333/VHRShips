@@ -10,7 +10,7 @@ load ('...\testList.mat');
 gTruthLabels = testList;
 tempAddress = table2cell(gTruthLabels(:,1));
 oldPathPixelLabel = 'C:\..\testImageFolder\';
-% >>> DEFINE > the address of test images' file in your local
+% >>> DEFINE > the address of test images' file ("test_c34") in your local
 newPathPixelLabel = 'X:\..\testImageFolder\';
 newPath = replace(tempAddress, oldPathPixelLabel, newPathPixelLabel);
 newPath = cell2table(newPath);
