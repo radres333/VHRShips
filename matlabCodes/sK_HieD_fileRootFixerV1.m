@@ -11,7 +11,7 @@ gTruthLabels = testList;
 tempAddress = table2cell(gTruthLabels(:,1));
 oldPathPixelLabel = 'C:\..\testImageFolder\';
 % >>> DEFINE > the address of test images' file ("test_c34") in your local
-newPathPixelLabel = 'X:\..\testImageFolder\';
+newPathPixelLabel = 'X:\..\test_c34\';
 newPath = replace(tempAddress, oldPathPixelLabel, newPathPixelLabel);
 newPath = cell2table(newPath);
 testList(:,1) = newPath;
