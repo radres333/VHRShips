@@ -28,4 +28,4 @@ Explanation_1             : 1-7 (1:Alongside vessel, 2: Ship in ballast, 3: Open
 Explanation_2             : Free style comment\
 Name of 23 parent classes and 11 eleven child classes (navy is excluded) : x, y, width, height (Bounding box information of ship(s) distributed to the classes)\
 
-[Get in contact with author to get full dataset and metafile.]
+GET IN CONTACT WITH AUTHOR TO GET FULL DATASET AND METAFILE.
