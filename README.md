@@ -28,4 +28,4 @@ Explanation_1             : 1-7 (1:Alongside vessel, 2: Ship in ballast, 3: Open
 Explanation_2             : Free style comment\
 Bounding Box              : x, y, width, height (Bounding box information of ship(s) distributed to the classes)\
 
-GET IN CONTACT WITH AUTHOR TO GET FULL DATASET AND METAFILE.
+GET IN CONTACT WITH AUTHOR TO GET METAFILE AND FULL DATASET.
