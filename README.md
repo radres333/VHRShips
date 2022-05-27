@@ -16,7 +16,7 @@ The Steps to be Followed to Run the Code:
 # Dataset
 VHRShips comprises of 6312 optical satellite images collected from Google Earth. While 1000 images don’t include any ship, rest of them consist 11337 ships in 34 different classes. VHRShips has high definition, inshore and offshore images from various locations, rich metafile content and includes noisy images representing real scenarios.
 
-Metafile\\
+Metafile\
 Image Order               : 1-6312
 Image Location            : (List of the locations given in the article)
 Image Date                : YYYYMMDD (Year Month Day)
