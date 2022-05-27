@@ -16,12 +16,12 @@ The Steps to be Followed to Run the Code:
 # Dataset
 VHRShips comprises of 6312 optical satellite images collected from Google Earth. While 1000 images don’t include any ship, rest of them consist 11337 ships in 34 different classes. VHRShips has high definition, inshore and offshore images from various locations, rich metafile content and includes noisy images representing real scenarios.
 
-Metafile\
+Metafile includes the following columns with the described contents\
 Image Order               : 1-6312\
 Image Location            : (List of the locations given in the article)\
 Image Date                : YYYYMMDD (Year Month Day)\
 Image Quality             : 1-3 (3: good (clear); 2: moderate (low resolution, glint); 1: poor (cloudy, haze))\
-Ship Existence            :  0 / 1 (0: non-exist; 1: exist)\
+Ship Existence            : 0 / 1 (0: non-exist; 1: exist)\
 Number of ship(s)         : 0-118\
 Length of the longest ship: 7-408 meters\
 Explanation_1             : 1-7 (1:Alongside vessel, 2: Ship in ballast, 3: Open hatch, 4: Be towed, 5: Discharging water, 6: Tagging, 7: At pier)\
