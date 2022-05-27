@@ -18,6 +18,7 @@ VHRShips comprises of 6312 optical satellite images collected from Google Earth.
 
 Metafile
 Image Order               : 1-6312
+
 Image Location            : (List of the locations given in the article)
 Image Date                : YYYYMMDD (Year Month Day)
 Image Quality             : 1-3 (3: good (clear); 2: moderate (low resolution, glint); 1: poor (cloudy, haze))
