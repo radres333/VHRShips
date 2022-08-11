@@ -26,6 +26,8 @@ Number of ship(s)         : 0-118\
 Length of the longest ship: 7-408 meters\
 Explanation_1             : 1-7 (1: Alongside vessel, 2: Ship in ballast, 3: Open hatch, 4: Be towed, 5: Discharging water, 6: Tagging, 7: At pier)\
 Explanation_2             : Free style comment\
-Bounding Box              : x, y, width, height (bounding box information of ship(s) distributed to the classes)\
+Bounding Box              : x, y, width, height (bounding box information of ship(s) distributed to the classes)
+
+RELATED PUBLICATION: Kızılkaya S, Alganci U, Sertel E. VHRShips: An Extensive Benchmark Dataset for Scalable Deep Learning-Based Ship Detection Applications. ISPRS International Journal of Geo-Information. 2022; 11(8):445. https://doi.org/10.3390/ijgi11080445
 
 GET IN CONTACT WITH THE AUTHOR TO GET THE METAFILE AND FULL DATASET.
