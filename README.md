@@ -1,3 +1,5 @@
+![resim](https://user-images.githubusercontent.com/36138861/213911512-5b588133-830a-444f-8aec-c1a3157aecdd.png)
+
 # VHRShips: An extensive benchmark dataset for scalable deep learning-based ship detection applications
 This study focuses on all stages of ship classification in optical satellite images. We proposed a deep learning-based “Hierarchical Design (HieD)” approach performing Detection, Localization, Recognition, and Identification (DLRI) of the ships in optical satellite images. HieD is an end-to-end approach that allows the optimization of each stage of the DLRI independently. We generated a unique and rich ship dataset (Very High Resolution Ships, VHRShips) using Google Earth images including diversity of ship types and data acquisition conditions. While the Xception network is used in detection, recognition, and identification stages; YOLOv4 is preferred for the localization of the ships. 
 We found F1-Scores for DLRI stages are respectively 99.17 / 94.20 / 84.08 / 82.13 percent; end to end F1-Scores are 99.17 / 93.43 / 74.00 / 57.05 for the same order.
