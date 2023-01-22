@@ -19,10 +19,10 @@ The first column is the image address,
 The second column is the list of all bounding boxes in the related image,
 The third column is the list of ship labels in the related image,
 The columns between 4th and 37th involve the bounding boxes of the the related ship class if exists in the related image.
+![resim](https://user-images.githubusercontent.com/36138861/213911333-bdac2ce0-2bb6-4ce9-a410-5f25b352439e.png)
 
 # Dataset
 VHRShips comprises of 6312 optical satellite images collected from Google Earth. While 1000 images don’t include any ship, rest of them consist 11337 ships in 34 different classes. VHRShips has high definition, inshore and offshore images from various locations, rich metafile content and includes noisy images representing real scenarios.
-![resim](https://user-images.githubusercontent.com/36138861/213911333-bdac2ce0-2bb6-4ce9-a410-5f25b352439e.png)
 
 VHRShips metafile includes the following columns with the described contents\
 Image Order               : 1-6312\
