@@ -14,11 +14,7 @@ The Steps to be Followed to Run the Code:
 9. execute "sK_HieD_visualizeV1.m"
 
 # Details about testList.mat
-File is a table in 1275*37 (rows and columns) format.
-The first column is the image address,
-The second column is the list of all bounding boxes in the related image,
-The third column is the list of ship labels in the related image,
-The columns between 4th and 37th involve the bounding boxes of the the related ship class if exists in the related image.
+File is a table in 1275*37 (rows and columns) format. The first column is the image address. The second column is the list of all bounding boxes in the related image. The third column is the list of ship labels in the related image. The columns between 4th and 37th involve the bounding boxes of the the related ship class if exists in the related image.
 ![resim](https://user-images.githubusercontent.com/36138861/213911333-bdac2ce0-2bb6-4ce9-a410-5f25b352439e.png)
 
 # Dataset
