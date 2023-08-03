@@ -40,3 +40,4 @@ NOW full dataset is open access. Please cite the journal given above if you use 
 Use the link below to download VHRShips, annotations and meta file.
 https://drive.google.com/drive/folders/16IBRXXgzL2l-Xvaaxxu9NUnHPRoML6d8?usp=sharing
 
+The metafile will be updated soon.
