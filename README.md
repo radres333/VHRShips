@@ -36,4 +36,7 @@ Bounding Box              : x, y, width, height (bounding box information of shi
 
 RELATED PUBLICATION: Kızılkaya S, Alganci U, Sertel E. VHRShips: An Extensive Benchmark Dataset for Scalable Deep Learning-Based Ship Detection Applications. ISPRS International Journal of Geo-Information. 2022; 11(8):445. https://doi.org/10.3390/ijgi11080445
 
-GET IN CONTACT WITH THE AUTHOR TO GET THE METAFILE AND FULL DATASET.
+NOW full dataset is open access. Please cite the journal given above if you use the dataset.
+Use the link below to download VHRShips, annotations and meta file.
+https://drive.google.com/drive/folders/16IBRXXgzL2l-Xvaaxxu9NUnHPRoML6d8?usp=sharing
+
